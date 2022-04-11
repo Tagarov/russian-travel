@@ -1,0 +1,16 @@
+.question{
+    width: 984px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1152px) {
+    .question {
+      max-width: 928px;
+    }
+  }
+  
+  @media screen and (max-width: 928px) {
+    .question {
+      width: 100%;
+    }
+  }
