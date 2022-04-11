@@ -1,2 +1,8 @@
 @import url(../vendor/normalize.css);
+@import url(../fonts/Inter/inter.css);
 @import url(../blocks/page/page.css);
+@import url(../description/description.css);
+@import url(../description/__title/description__title.css);
+@import url(../description/__subtitle/description__subtitle.css);
+@import url(../description/__img/description__img.css);
+@import url(../description/__img-subline/description__img-subline.css);

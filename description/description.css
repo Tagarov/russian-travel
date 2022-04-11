@@ -1,0 +1,12 @@
+.description {
+  max-width: 984px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+@media screen and (max-width: 1152px) {
+  .description {
+    max-width: 928px;
+  }
+}
