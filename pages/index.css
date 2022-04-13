@@ -19,3 +19,6 @@
 @import url(../blocks/question/__list/question__list.css);
 @import url(../blocks/question/__list-item/question__list-item.css);
 @import url(../blocks/question/__list-number/question__list-number.css);
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/__list/gallery__list.css);
+@import url(../blocks/gallery/__item/gallery__list-item.css);
